@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TestRxSwift
 //
-//  Created by Admin on 13/04/2020.
+//  Created by Admin on 14/04/2020.
 //  Copyright © 2020 Admin. All rights reserved.
 //
 
@@ -15,6 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
   func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
     // Override point for customization after application launch.
+
     return true
   }
 
