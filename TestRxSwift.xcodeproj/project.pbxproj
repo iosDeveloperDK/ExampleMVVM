@@ -92,7 +92,6 @@
 		847F4A482444D80C00B3E7FD /* TestRxSwift */ = {
 			isa = PBXGroup;
 			children = (
-				847F4A6F2444DEEC00B3E7FD /* Protocol */,
 				847F4A6C2444DE5C00B3E7FD /* Models */,
 				847F4A692444DD0500B3E7FD /* Service */,
 				847F4A492444D80C00B3E7FD /* AppDelegate.swift */,
@@ -156,13 +155,6 @@
 			children = (
 			);
 			path = Models;
-			sourceTree = "<group>";
-		};
-		847F4A6F2444DEEC00B3E7FD /* Protocol */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Protocol;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
